@@ -1,0 +1,17 @@
+The solution involves adding spaces around the operators in the `calc()` function. The corrected CSS ensures that the browser correctly interprets and performs the calculation.
+
+For example:
+
+Incorrect:
+
+```css
+width:calc(100%-10px);
+```
+
+Correct:
+
+```css
+width:calc(100% - 10px);
+```
+
+By adding the spaces, the browser can correctly calculate the width.
