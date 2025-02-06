@@ -1,0 +1,1 @@
+This repository demonstrates a common error in CSS when using the `calc()` function. The error occurs when spaces are not added around the operators within the `calc()` function. This results in the browser failing to parse the calculation correctly, leading to unexpected layout issues. The solution demonstrates the correct usage of `calc()` with spaces around operators.
